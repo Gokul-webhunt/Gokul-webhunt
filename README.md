@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Connect With Me
-[💼 [LinkedIn](https://www.linkedin.com/in/gokul02/)
+💼 [LinkedIn](https://www.linkedin.com/in/gokul02/)
 
 ---
 
