@@ -1,16 +1,17 @@
 # 👋 Hi there, I'm Gokul!
 
-💼 Front-End Developer | BSc in Computer Technology  
-🌱 Currently learning React & building user-friendly web experiences  
-📌 Former Front-End Intern | Client Partner 
+💼 Cybersecurity Analyst | BSc in Computer Technology  
+🌱 Focused on SOC, Threat Detection & Vulnerability Testing  
+📌 Former Front-End Intern | Former Client Partner
 
 ---
 
 ### 🛠️ Tech Stack:
+- 🔐SIEM (Microsoft Sentinel) | SOC Analysis | Web Security | Threat Detection | Log Analysis | Burp Suite
 - Languages: HTML, CSS, JavaScript, Python
 - Libraries \& Frameworks: Bootstrap, React.js, jQuery, Pandas, NumPy, Matplotlib
 - Developer Tools: VS Code, Git, GitHub, Adobe Photoshop, XAMPP, PyCharm
-- Databases: MySQL
+- Databases: MySQL    
 
 ---
 
